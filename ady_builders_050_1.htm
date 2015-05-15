@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- Created and designed by Draghici Adrian -->
+<html lang="en">
+<head>
+	<title> Calculator scor Z v1 </title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta http-equiv="Content-Style-Type" content="text/css;">
+	<link rel="stylesheet" href="ady_builders_g.css" type="text/css" media="screen,projection,print">	<!--// Document Style //-->
+	<link rel="stylesheet" href="ady_builders_050_1_p.css" type="text/css" media="screen,projection,print">	<!--// Page Style //-->
+</head>
+<body onload="if(IE||V5) OnWeLoad()">
+<body bgcolor="#000000">
+<img id="e2" name="e40" src="images/loading_image.gif" title="" alt="loading_image.gif" >
+<div id="e3" class="cc297">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplicatia se incarca. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Va rugam asteptati. <br> <br> Acest lucru poate dura in functie de viteza conexiunii dumneavoastra la internet.
+</div>
+<div id="e1">
+<script type="text/javascript" src="http://r.office.microsoft.com/r/rlidExcelWLJS?v=1&kip=1"></script>
+<script type="text/javascript">
+	/*
+	 * This code uses the Microsoft Office Excel Javascript object model to programmatically insert the
+	 * Excel Web App into a div with id=myExcelDiv. The full API is documented at
+	 * http://msdn.microsoft.com/ro-RO/library/hh315812.aspx. There you can find out how to programmatically get
+	 * values from your Excel file and how to use the rest of the object model. 
+	 */
+
+	// Use this file token to reference formula calcul metoda Altman (Z) v1.xlsx in Excel's APIs
+	var fileToken = "SD400e9239e999d7b2!258/4615787445531301810/t=0&s=0&v=!ADJ4NYYwnVs-9Pw";
+
+	// run the Excel load handler on page load
+	if (window.attachEvent) {
+		window.attachEvent("onload", loadEwaOnPageLoad);
+	} else {
+		window.addEventListener("DOMContentLoaded", loadEwaOnPageLoad, false);
+	}
+
+	function loadEwaOnPageLoad() {
+		var props = {
+			item: "'Sheet1'!A1:F25",
+			uiOptions: {
+				showDownloadButton: false,
+				showParametersTaskPane: false
+			},
+			interactivityOptions: {
+				allowParameterModification: false,
+				allowSorting: false,
+				allowFiltering: false,
+				allowPivotTableInteractivity: false
+			}
+		};
+
+		Ewa.EwaControl.loadEwaAsync(fileToken, "e1", props, onEwaLoaded);
+	}
+
+	function onEwaLoaded(result) {
+		/*
+		 * Add code here to interact with the embedded Excel web app.
+		 * Find out more at http://msdn.microsoft.com/ro-RO/library/hh315812.aspx.
+		 */
+	}
+</script>
+</div>
+</body>
+</html>
+<!--/* --------------------------------------- */
+   /*--- |< /()()()()oooo^oooo()()()()\ >| ---*/
+  /*--- |< |------ by © Ady © ------ | >| ---*/
+ /*--- |< \()()()()oooo^oooo()()()()/ >| ---*/
+/* --------------------------------------- */ -->

@@ -1,0 +1,358 @@
+/*--- Platform page 024 - Page Style ---*/
+
+/*--- Scriptul CSS a stilului pentru pagina 24 ---*/
+
+
+.cc143              { /* Common */
+	width           : 100%;
+	height          : 100%;
+	padding         :   7.50pt;
+	border-width    :   0px;
+	}
+.cc144              { /* Common */
+	font            : 8pt 'MS Sans Serif';
+	color           : #000000;
+	padding         :   1.50pt;
+	}
+.cc145              { /* Common */
+	font            : 16pt 'Cooper Black';
+	color           : #ffff00;
+	}
+.cc146              { /* Common */
+	font            : 14pt 'Bauhaus 93';
+	color           : #808000;
+	}
+.cc147              { /* Common */
+	font            : 10pt 'Book Antiqua', Times, Georgia, serif;
+	color           : #ffffff;
+	}
+.cc148              { /* Common */
+	font            : bold 8pt 'Arial', Helvetica, sans-serif;
+	color           : #ff8000;
+	text-align      : center;
+	}
+span#e37            { /* images/top_construct0010... */
+	background      : transparent url(images/top_construct001002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 264.75pt;
+	top             : 113.25pt;
+	width           :  78.75pt;
+	height          :  26.25pt;
+	}
+span#e36            { /* images/shady_r.jpg */
+	background      : transparent url(images/shady_r.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  12.00pt;
+	top             :  14.25pt;
+	width           : 674.25pt;
+	height          : 504.75pt;
+	}
+div#e35             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	border          :   1.50pt inset #942424;
+	background-color: #d5ccbb;
+	position        : absolute;
+	left            : 180.00pt;
+	top             : 487.50pt;
+	width           :   1.50pt;
+	height          :  22.50pt;
+	}
+div#e34             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	border          :   1.50pt inset #942424;
+	background-color: #d5ccbb;
+	position        : absolute;
+	left            : 277.50pt;
+	top             : 487.50pt;
+	width           :   1.50pt;
+	height          :  22.50pt;
+	}
+div#e33             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  53.25pt;
+	top             : 194.25pt;
+	width           : 105.00pt;
+	height          :   2.25pt;
+	}
+div#e32             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  53.25pt;
+	top             : 231.00pt;
+	width           : 105.00pt;
+	height          :   2.25pt;
+	}
+div#e31             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  53.25pt;
+	top             : 267.75pt;
+	width           : 105.00pt;
+	height          :   2.25pt;
+	}
+div#e30             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  53.25pt;
+	top             : 304.50pt;
+	width           : 105.00pt;
+	height          :   2.25pt;
+	}
+div#e29             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  53.25pt;
+	top             : 341.25pt;
+	width           : 105.00pt;
+	height          :   2.25pt;
+	}
+div#e28             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  53.25pt;
+	top             : 378.00pt;
+	width           : 105.00pt;
+	height          :   2.25pt;
+	}
+span#e27            { /* images/logo11.gif */
+	background      : transparent url(images/logo11.gif) no-repeat top left;
+	position        : absolute;
+	left            : 206.25pt;
+	top             :  42.00pt;
+	width           :  44.25pt;
+	height          :  44.25pt;
+	}
+h6#e26              { /* Links */
+	position        : absolute;
+	left            : 185.25pt;
+	top             : 495.00pt;
+	width           :  91.50pt;
+	height          :  13.50pt;
+	}
+h1#e25              { /* SC. Top-Construct S.A.\ */
+	background      : transparent url(images/top_construct024005.gif) no-repeat top left;
+	position        : absolute;
+	left            : 273.00pt;
+	top             :  35.25pt;
+	width           : 384.75pt;
+	height          :  35.25pt;
+	}
+h4#e24              { /* Firma de constructii ce ... */
+	background      : transparent url(images/top_construct024004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 273.00pt;
+	top             :  74.25pt;
+	width           : 384.75pt;
+	height          :  36.75pt;
+	}
+div#e23             { /* Acasa */
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 118.50pt;
+	width           :  56.25pt;
+	height          :  13.50pt;
+	}
+div#e22             { /* Capitolul I: */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 273.75pt;
+	top             : 112.50pt;
+	width           :  56.25pt;
+	height          :  19.50pt;
+	}
+div#e21             { /* Capitolul III: */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 405.75pt;
+	top             : 112.50pt;
+	width           :  69.75pt;
+	height          :  19.50pt;
+	}
+div#e20             { /* Capitolul IV: */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 471.00pt;
+	top             : 113.25pt;
+	width           :  75.00pt;
+	height          :  19.50pt;
+	}
+span#e19            { /* images/top-construct.jpg */
+	background      : transparent url(images/top-construct.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  27.00pt;
+	top             :  33.00pt;
+	width           : 173.25pt;
+	height          :  55.50pt;
+	}
+span#e18            { /* images/top_construct0010... */
+	background      : transparent url(images/top_construct001002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 330.75pt;
+	top             : 112.50pt;
+	width           :  78.75pt;
+	height          :  26.25pt;
+	}
+div#e17             { /* Capitolul II: */
+	font            : 10pt 'Arial Black', Helvetica, sans-serif;
+	color           : #0000ff;
+	padding-top     :   6.00pt;
+	position        : absolute;
+	left            : 338.25pt;
+	top             : 114.00pt;
+	width           :  63.00pt;
+	height          :  20.25pt;
+	}
+form#f16            { /* http://www.google.co.uk/... */
+	position        : absolute;
+	left            :  37.50pt;
+	top             : 417.75pt;
+	width           : 118.50pt;
+	height          :  44.25pt;
+	}
+input#e15           { /* Submit Search  */
+	font            : bold 9pt 'Arial', Helvetica, sans-serif;
+	background-image: url(images/top_construct002006.jpg);
+	position        : absolute;
+	left            :   4.50pt;
+	top             :  28.50pt;
+	width           :  86.25pt;
+	}
+input#e14           { /* Text q  */
+	padding         :   1.50pt;
+	position        : absolute;
+	left            :   4.50pt;
+	top             :   3.75pt;
+	width           : 114.00pt;
+	height          :  14.25pt;
+	}
+input#e13           { /* Hidden as_sitesearch  */
+	position        : absolute;
+	left            :  94.50pt;
+	top             :  29.25pt;
+	width           :  25.50pt;
+	height          :  14.25pt;
+	}
+div#e12             { /* MACROMEDIUL */
+	position        : absolute;
+	left            : 336.75pt;
+	top             : 151.50pt;
+	width           : 173.25pt;
+	height          :  20.25pt;
+	}
+div#e11             { /* 3. MEDIUL TEHNOLOGIC */
+	position        : absolute;
+	left            : 325.50pt;
+	top             : 171.00pt;
+	width           : 161.25pt;
+	height          :  22.50pt;
+	}
+div#e10             { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
+	position        : absolute;
+	left            : 191.25pt;
+	top             : 184.50pt;
+	width           : 483.00pt;
+	height          : 257.25pt;
+	}
+div#e9              { /* Pagina \ \urmatoare */
+	visibility      : hidden;
+	position        : absolute;
+	left            : 578.25pt;
+	top             : 444.00pt;
+	width           :  44.25pt;
+	height          :  33.75pt;
+	}
+img#e8              { /* images/square.gif */
+	position        : absolute;
+	left            : 621.75pt;
+	top             : 446.25pt;
+	width           :  13.50pt;
+	height          :  13.50pt;
+	}
+div#e7              { /* Pagina\ \anterioara */
+	visibility      : hidden;
+	position        : absolute;
+	left            : 569.25pt;
+	top             : 464.25pt;
+	width           :  63.00pt;
+	height          :  23.25pt;
+	}
+img#e6              { /* images/square.gif */
+	position        : absolute;
+	left            : 623.25pt;
+	top             : 467.25pt;
+	width           :  13.50pt;
+	height          :  13.50pt;
+	}
+img#e5              { /* images/top_construct0240... */
+	position        : absolute;
+	left            : 638.25pt;
+	top             : 443.25pt;
+	width           :  38.25pt;
+	height          :  42.75pt;
+	}
+h6#e4               { /* Copyright (C) 2015 DRAGH... */
+	font            : italic bold 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 292.50pt;
+	top             : 495.00pt;
+	width           : 374.25pt;
+	height          :  14.25pt;
+	}
+div#e3              { /* ANALIZA DIAGNOSTIC A MED... */
+	font            : 8pt 'Elephant';
+	color           : #00ffff;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 237.75pt;
+	width           : 143.25pt;
+	height          :  23.25pt;
+	}
+div#e2              { /* ANALIZA MEDIULUI EXTERN */
+	font            : 10pt 'Elephant';
+	color           : #00ffff;
+	position        : absolute;
+	left            :  33.00pt;
+	top             : 272.25pt;
+	width           : 143.25pt;
+	height          :  30.75pt;
+	}
+div#e1              { /* ANALIZA MEDIULUI INTERN */
+	font            : 10pt 'Elephant';
+	color           : #00ffff;
+	position        : absolute;
+	left            :  33.00pt;
+	top             : 309.75pt;
+	width           : 143.25pt;
+	height          :  27.75pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 702.00pt;
+	height          : 535.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
+    /* --------------------------------------- */
+   /*--- |< /()()()()oooo^oooo()()()()\ >| ---*/
+  /*--- |< |------ by © Ady © ------ | >| ---*/
+ /*--- |< \()()()()oooo^oooo()()()()/ >| ---*/
+/* --------------------------------------- */

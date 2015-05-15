@@ -1,0 +1,368 @@
+/*--- Platform page 046 - Page Style ---*/
+
+/*--- Scriptul CSS a stilului pentru pagina 46 ---*/
+
+
+.cc276              { /* Common */
+	width           : 100%;
+	height          : 100%;
+	padding         :   7.50pt;
+	border-width    :   0px;
+	}
+.cc277              { /* Common */
+	font            : 8pt 'MS Sans Serif';
+	color           : #000000;
+	padding         :   1.50pt;
+	}
+.cc278              { /* Common */
+	font            : 16pt 'Cooper Black';
+	color           : #ffff00;
+	}
+.cc279              { /* Common */
+	font            : 14pt 'Bauhaus 93';
+	color           : #808000;
+	}
+.cc280              { /* Common */
+	font            : 14pt 'Book Antiqua', Times, Georgia, serif;
+	color           : #ffffff;
+	}
+.cc281              { /* Common */
+	font            : bold 8pt 'Arial', Helvetica, sans-serif;
+	color           : #ff8000;
+	text-align      : center;
+	}
+span#e38            { /* images/shady_r.jpg */
+	background      : transparent url(images/shady_r.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  12.00pt;
+	top             :  14.25pt;
+	width           : 674.25pt;
+	height          : 504.75pt;
+	}
+div#e37             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	border          :   1.50pt inset #942424;
+	background-color: #d5ccbb;
+	position        : absolute;
+	left            : 180.00pt;
+	top             : 487.50pt;
+	width           :   1.50pt;
+	height          :  22.50pt;
+	}
+div#e36             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	border          :   1.50pt inset #942424;
+	background-color: #d5ccbb;
+	position        : absolute;
+	left            : 277.50pt;
+	top             : 487.50pt;
+	width           :   1.50pt;
+	height          :  22.50pt;
+	}
+span#e35            { /* images/logo11.gif */
+	background      : transparent url(images/logo11.gif) no-repeat top left;
+	position        : absolute;
+	left            : 206.25pt;
+	top             :  42.00pt;
+	width           :  44.25pt;
+	height          :  44.25pt;
+	}
+div#e34             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  53.25pt;
+	top             : 194.25pt;
+	width           : 105.00pt;
+	height          :   2.25pt;
+	}
+div#e33             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  53.25pt;
+	top             : 231.00pt;
+	width           : 105.00pt;
+	height          :   2.25pt;
+	}
+div#e32             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  53.25pt;
+	top             : 267.75pt;
+	width           : 105.00pt;
+	height          :   2.25pt;
+	}
+div#e31             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  53.25pt;
+	top             : 304.50pt;
+	width           : 105.00pt;
+	height          :   2.25pt;
+	}
+div#e30             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  53.25pt;
+	top             : 341.25pt;
+	width           : 105.00pt;
+	height          :   2.25pt;
+	}
+div#e29             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  53.25pt;
+	top             : 378.00pt;
+	width           : 105.00pt;
+	height          :   2.25pt;
+	}
+h6#e28              { /* Links */
+	position        : absolute;
+	left            : 185.25pt;
+	top             : 495.00pt;
+	width           :  91.50pt;
+	height          :  13.50pt;
+	}
+h1#e27              { /* SC. Top-Construct S.A.\ */
+	background      : transparent url(images/top_construct046005.gif) no-repeat top left;
+	position        : absolute;
+	left            : 273.00pt;
+	top             :  35.25pt;
+	width           : 384.75pt;
+	height          :  35.25pt;
+	}
+h4#e26              { /* Firma de constructii ce ... */
+	background      : transparent url(images/top_construct046004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 273.00pt;
+	top             :  74.25pt;
+	width           : 384.75pt;
+	height          :  36.75pt;
+	}
+div#e25             { /* Acasa */
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 117.75pt;
+	width           :  56.25pt;
+	height          :  13.50pt;
+	}
+div#e24             { /* Capitolul I: */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 273.75pt;
+	top             : 112.50pt;
+	width           :  56.25pt;
+	height          :  19.50pt;
+	}
+div#e23             { /* Capitolul II: */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 340.50pt;
+	top             : 112.50pt;
+	width           :  63.00pt;
+	height          :  19.50pt;
+	}
+div#e22             { /* Capitolul IV: */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 477.75pt;
+	top             : 113.25pt;
+	width           :  75.00pt;
+	height          :  19.50pt;
+	}
+span#e21            { /* images/top-construct.jpg */
+	background      : transparent url(images/top-construct.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  27.00pt;
+	top             :  33.00pt;
+	width           : 173.25pt;
+	height          :  55.50pt;
+	}
+span#e20            { /* images/top_construct0010... */
+	background      : transparent url(images/top_construct001002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 404.25pt;
+	top             : 113.25pt;
+	width           :  78.75pt;
+	height          :  26.25pt;
+	}
+div#e19             { /* Capitolul III: */
+	font            : 9pt 'Arial Black', Helvetica, sans-serif;
+	color           : #0000ff;
+	padding-top     :   6.00pt;
+	position        : absolute;
+	left            : 409.50pt;
+	top             : 114.75pt;
+	width           :  69.75pt;
+	height          :  20.25pt;
+	}
+form#f18            { /* http://www.google.co.uk/... */
+	position        : absolute;
+	left            :  37.50pt;
+	top             : 417.75pt;
+	width           : 118.50pt;
+	height          :  44.25pt;
+	}
+input#e17           { /* Submit Search  */
+	font            : bold 9pt 'Arial', Helvetica, sans-serif;
+	background-image: url(images/top_construct002006.jpg);
+	position        : absolute;
+	left            :   4.50pt;
+	top             :  28.50pt;
+	width           :  86.25pt;
+	}
+input#e16           { /* Text q  */
+	padding         :   1.50pt;
+	position        : absolute;
+	left            :   4.50pt;
+	top             :   3.75pt;
+	width           : 114.00pt;
+	height          :  14.25pt;
+	}
+input#e15           { /* Hidden as_sitesearch  */
+	position        : absolute;
+	left            :  94.50pt;
+	top             :  29.25pt;
+	width           :  25.50pt;
+	height          :  14.25pt;
+	}
+img#e14             { /* images/top_construct0460... */
+	position        : absolute;
+	left            : 638.25pt;
+	top             : 443.25pt;
+	width           :  38.25pt;
+	height          :  42.75pt;
+	}
+h6#e13              { /* Copyright (C) 2015 DRAGH... */
+	font            : italic bold 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 292.50pt;
+	top             : 495.00pt;
+	width           : 374.25pt;
+	height          :  14.25pt;
+	}
+div#e12             { /* ANALIZA SWOT SI REFLEXII... */
+	position        : absolute;
+	left            : 244.50pt;
+	top             : 156.75pt;
+	width           : 396.00pt;
+	height          :  38.25pt;
+	}
+div#e11             { /* 3. OPORTUNITATI */
+	position        : absolute;
+	left            : 375.75pt;
+	top             : 180.75pt;
+	width           : 121.50pt;
+	height          :  22.50pt;
+	}
+div#e10             { /* •Lipsa din piata a unor ... */
+	position        : absolute;
+	left            : 201.75pt;
+	top             : 202.50pt;
+	width           : 457.50pt;
+	height          : 214.50pt;
+	}
+div#e9              { /* Pagina \ \anterioara */
+	visibility      : hidden;
+	position        : absolute;
+	left            : 579.00pt;
+	top             : 462.00pt;
+	width           :  44.25pt;
+	height          :  26.25pt;
+	}
+img#e8              { /* images/square.gif */
+	position        : absolute;
+	left            : 625.50pt;
+	top             : 466.50pt;
+	width           :  13.50pt;
+	height          :  13.50pt;
+	}
+div#e7              { /* Pagina \ \urmatoare */
+	visibility      : hidden;
+	position        : absolute;
+	left            : 577.50pt;
+	top             : 439.50pt;
+	width           :  45.75pt;
+	height          :  26.25pt;
+	}
+img#e6              { /* images/square.gif */
+	position        : absolute;
+	left            : 624.75pt;
+	top             : 444.00pt;
+	width           :  13.50pt;
+	height          :  13.50pt;
+	}
+div#e5              { /* PUNCTE FORTE */
+	font            : 11pt 'Elephant';
+	color           : #00ffff;
+	position        : absolute;
+	left            :  36.00pt;
+	top             : 204.00pt;
+	width           : 143.25pt;
+	height          :  17.25pt;
+	}
+div#e4              { /* PUNCTE SLABE */
+	font            : 11pt 'Elephant';
+	color           : #00ffff;
+	position        : absolute;
+	left            :  38.25pt;
+	top             : 243.75pt;
+	width           : 143.25pt;
+	height          :  17.25pt;
+	}
+div#e3              { /* OPORTUNITATI */
+	font            : 11pt 'Elephant';
+	color           : #00ffff;
+	position        : absolute;
+	left            :  38.25pt;
+	top             : 281.25pt;
+	width           : 143.25pt;
+	height          :  17.25pt;
+	}
+div#e2              { /* AMENINTARI */
+	font            : 11pt 'Elephant';
+	color           : #00ffff;
+	position        : absolute;
+	left            :  37.50pt;
+	top             : 316.50pt;
+	width           : 143.25pt;
+	height          :  17.25pt;
+	}
+div#e1              { /* REZULTAT */
+	font            : 11pt 'Elephant';
+	color           : #00ffff;
+	position        : absolute;
+	left            :  36.00pt;
+	top             : 353.25pt;
+	width           : 143.25pt;
+	height          :  17.25pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 702.00pt;
+	height          : 535.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
+    /* --------------------------------------- */
+   /*--- |< /()()()()oooo^oooo()()()()\ >| ---*/
+  /*--- |< |------ by © Ady © ------ | >| ---*/
+ /*--- |< \()()()()oooo^oooo()()()()/ >| ---*/
+/* --------------------------------------- */

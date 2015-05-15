@@ -1,0 +1,37 @@
+/*--- Platform page 050_1 - Page Style ---*/
+
+/*--- Scriptul CSS a stilului pentru pagina 50_1 ---*/
+
+
+.cc297              { /* Common */
+	font            : bold 20pt 'Book Antiqua', Times, Georgia, serif;
+	color           : #CCFF99;
+	}
+div#e1              { /* calculator scor Z v1 */
+	position        : absolute;
+	left            : 0pt;
+	top             : 0pt;
+	width           :  1100.50pt;
+	height          :  715.50pt;
+	}
+img#e2              { /* calculator scor Z v1 */
+	position        : absolute;
+	left            : 200pt;
+	top             : 80pt;
+	width           :  600.50pt;
+	height          :  600.50pt;
+	}
+div#e3              { /* calculator scor Z v1 */
+	position        : absolute;
+	left            : 300pt;
+	top             : 400pt;
+	width           :  400.50pt;
+	height          :  200.50pt;
+	}
+
+/*--- EndOfFile ---*/
+    /* --------------------------------------- */
+   /*--- |< /()()()()oooo^oooo()()()()\ >| ---*/
+  /*--- |< |------ by © Ady © ------ | >| ---*/
+ /*--- |< \()()()()oooo^oooo()()()()/ >| ---*/
+/* --------------------------------------- */
